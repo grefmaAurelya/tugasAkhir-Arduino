@@ -1,5 +1,5 @@
 /*****************************************************************************
-Judul TA : Sistem Kontrol Suhu pada Kandang DOD menggunakan DHT22 berbasis IOT
+Judul TA : Sistem Kontrol Suhu menggunakan DHT22 berbasis IOT
 Program  : Kontrol Suhu Menggunakan DHT22 dan Dimmer Modul
 Chip     : ESP8266 (NodeMCU V3 Lolin)
 Nama     : Grefma Aurelya Orizanty
